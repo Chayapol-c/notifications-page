@@ -1,0 +1,22 @@
+@import "./variables.scss";
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: PlusJakartaSans;
+    src: url('src/assets/fonts/static/PlusJakartaSans-Medium.ttf');
+    font-weight: $font-weight-base;
+}
+@font-face {
+    font-family: PlusJakartaSans;
+    src: url('src/assets/fonts/static/PlusJakartaSans-ExtraBold.ttf');
+    font-weight: $font-weight-bold;
+}
+body {
+    font-size: 16px;
+    font-family: PlusJakartaSans;
+    background-color: $blue-100;
+}

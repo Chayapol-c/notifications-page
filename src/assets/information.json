@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "title": "Mark Webber",
+    "profileImageUrl": "src/assets/images/avatar-mark-webber.webp",
+    "activityText": "reacted to your recent post",
+    "postName": "My first tournament today!",
+    "isRead": false,
+    "age": 60000
+  },
+  {
+    "id": 2,
+    "title": "Angela Grey",
+    "profileImageUrl": "src/assets/images/avatar-angela-gray.webp",
+    "activityText": "followed you",
+    "isRead": false,
+    "age": 300000
+  },
+  {
+    "id": 3,
+    "title": "Jacob Thompson",
+    "profileImageUrl": "src/assets/images/avatar-jacob-thompson.webp",
+    "activityText": "has join your group",
+    "groupName": "Chess Club",
+    "isRead": false,
+    "age": 86400000
+  },
+  {
+    "id": 4,
+    "title": "Rizky Hasanuddin",
+    "profileImageUrl": "src/assets/images/avatar-rizky-hasanuddin.webp",
+    "activityText": "sent you a private message",
+    "privateMessage": "Hello, thanks for setting up the Chess Club. I've been a member for a few weeks now and I'm already having lots of fun and improving my game.",
+    "isRead": true,
+    "age": 432000000
+  },
+  {
+    "id": 5,
+    "title": "Kimberly Smith",
+    "profileImageUrl": "src/assets/images/avatar-kimberly-smith.webp",
+    "activityText": "commented on your picture",
+    "commentedPicture": "src/assets/images/image-chess.webp",
+    "isRead": true,
+    "age": 604800000
+  },
+  {
+    "id": 6,
+    "title": "Nathan Peterson",
+    "profileImageUrl": "src/assets/images/avatar-nathan-peterson.webp",
+    "activityText": "reacted to your recent post",
+    "postName": "5 end-game strategies to increase your win rate",
+    "isRead": true,
+    "age": 1209600000
+  },
+  {
+    "id": 7,
+    "title": "Anna Kim",
+    "profileImageUrl": "src/assets/images/avatar-anna-kim.webp",
+    "activityText": "left the group",
+    "groupName": "Chess Club",
+    "isRead": true,
+    "age": 1209600000
+  }
+]
